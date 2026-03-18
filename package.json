@@ -1,0 +1,1 @@
+{ "name": "esarev-win-setup", "version": "1.0.0", "scripts": { "start": "vite" }, "dependencies": {}, "devDependencies": { "vite": "^2.0.0" } }
