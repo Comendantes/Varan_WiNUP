@@ -46,6 +46,6 @@ npm run build
 
 ## Автор
 
-**Esarev** — [@Comendant](https://t.me/Comendant)
+**Esarev** — [@Knyaz](https://t.me/knyazsnov)
 
 GitHub: [Comendantes/Esarev-Win-Setup](https://github.com/Comendantes/Esarev-Win-Setup)
