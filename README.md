@@ -77,4 +77,4 @@
 
 ## Лицензия
 
-MIT © Esarev
+MIT © Knyaz
